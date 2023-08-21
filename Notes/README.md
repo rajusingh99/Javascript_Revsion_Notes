@@ -1,4 +1,4 @@
-# These are the complete notes, You can view any one of the chapters from the .md files above :D
+# These are the complete notes, You can view any one of the chapters from the .md files above :
 
 # Episode 1 : Execution Context
 
